@@ -98,8 +98,8 @@ var messages = [
 						event.preventDefault( );
 					 	let message = {
 						 "user": {
-						 "name": "Ramses",
-						 "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=25"
+						 "name": "Diego",
+						 "image": "https://images.pexels.com/photos/327533/pexels-photo-327533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 						 },
 						 "message": {
 						 "text": event.target.value,

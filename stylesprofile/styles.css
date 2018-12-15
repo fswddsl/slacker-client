@@ -1,0 +1,48 @@
+body {
+  border: solid;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+img {
+  border-radius: 80%;
+  width: 60%;
+  height: 270px;
+}
+
+aside {
+  float : left;
+  margin : 10px;
+  width : 40%;
+}
+
+h1 {
+   color: #581386;
+}
+h3 {
+   color: #581386;
+}
+b {
+   font-size:60%;
+}
+p {
+   color: #908797;
+  font-size: 70%;
+  margin-right: 2em;
+}
+hr{
+  margin-right: 2em;
+  border-width: 1px;
+  color: #581386;
+}
+c {
+   color: #000000;
+  font-size:60%;
+  
+}
+
+span {
+  display : inline-block; color : #531386; font-weight: bold;
+  width: 5rem;
+} 
+ 
